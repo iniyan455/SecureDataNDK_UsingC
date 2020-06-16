@@ -1,4 +1,4 @@
-package com.digitap.securedata
+package com.iniyan.securedata
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

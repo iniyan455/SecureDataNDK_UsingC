@@ -1,11 +1,10 @@
-package com.digitap.securedata
+package com.iniyan.securedata
 
 import android.os.Bundle
 import android.util.Base64
 import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
     companion object {
